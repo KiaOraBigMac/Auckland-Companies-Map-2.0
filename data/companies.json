@@ -1,0 +1,693 @@
+[
+  {
+    "name": "AsureQuality",
+    "lat": -36.92041337996681,
+    "lng": 174.71328067116843,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "Eurofins Food Analytics NZ",
+    "lat": -36.91436822743487,
+    "lng": 174.815656225003,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "Harvey Ash Laboratories",
+    "lat": -36.98159910839187,
+    "lng": 174.7727550765286,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "Alpha Laboratories NZ",
+    "lat": -36.93920917693652,
+    "lng": 174.8934575988754,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "Spectrum Laboratories",
+    "lat": -36.949231030153456,
+    "lng": 174.8938389255889,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "Vetlab New Zealand Operations",
+    "lat": -37.000113818291574,
+    "lng": 174.87230422603545,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "FoodBowl - NZ Food Innovation Network",
+    "lat": -36.98685341740382,
+    "lng": 174.78946800788546,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Free-Flow Manufacturing Limited",
+    "lat": -36.884183160311224,
+    "lng": 174.85687230264617,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Sherratt Ingredients",
+    "lat": -36.805681214925634,
+    "lng": 174.63459807199686,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Reso Fine Foods",
+    "lat": -36.74759358166633,
+    "lng": 174.7298749136021,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Brooke Fine Foods",
+    "lat": -36.7451014974292,
+    "lng": 174.73479114156157,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Hawkins Watts",
+    "lat": -36.918116437951696,
+    "lng": 174.80972087575208,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Langdon Ingredients",
+    "lat": -36.92277355829313,
+    "lng": 174.85780488090552,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Davis Food Ingredients",
+    "lat": -36.912855536002766,
+    "lng": 174.84517869171071,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Zymus International",
+    "lat": -36.87298114054751,
+    "lng": 174.66880755594806,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "GS Hall",
+    "lat": -36.92479391652649,
+    "lng": 174.8446082941536,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Sensient Technologies",
+    "lat": -36.93187442764348,
+    "lng": 174.8365830122535,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "EnviroChem",
+    "lat": -36.94489215868882,
+    "lng": 174.8817574851623,
+    "category": "Other / Unclassified"
+  },
+  {
+    "name": "Chemical Packers",
+    "lat": -36.94497084450593,
+    "lng": 174.89544362913563,
+    "category": "Other / Unclassified"
+  },
+  {
+    "name": "Chemblend",
+    "lat": -36.93241114920781,
+    "lng": 174.88823398417165,
+    "category": "Other / Unclassified"
+  },
+  {
+    "name": "Made Group NZ",
+    "lat": -36.90631062765926,
+    "lng": 174.6986901624679,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Sanitarium NZ",
+    "lat": -36.881078283475446,
+    "lng": 174.68039824649543,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Epicurean Dairy Co.",
+    "lat": -36.90570860112004,
+    "lng": 174.6974907513759,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Danone Nutricia",
+    "lat": -36.97769610155262,
+    "lng": 174.7777219248726,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Vitaco Health Group",
+    "lat": -36.95302525030596,
+    "lng": 174.9018897797477,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Unipharm Healthy Manufacturing Co. Ltd",
+    "lat": -36.7515660415819,
+    "lng": 174.70743068536638,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Alpha Health Care (NZ) Ltd",
+    "lat": -37.01092700677336,
+    "lng": 174.8557483999521,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Amrita Nutrition",
+    "lat": -37.00355034679412,
+    "lng": 174.8792179696998,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Greenfield Nutrition",
+    "lat": -37.005286768006805,
+    "lng": 174.84676376264628,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Nekta Nutrition",
+    "lat": -37.011225856083364,
+    "lng": 174.8554996953536,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "OraNutrition / Naturies",
+    "lat": -37.00328319739818,
+    "lng": 174.87583376642894,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "BioCell",
+    "lat": -36.95773597720356,
+    "lng": 174.85045105558666,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "New Image International",
+    "lat": -36.9453484217821,
+    "lng": 174.79474779345418,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Tegel Foods",
+    "lat": -36.89090009936564,
+    "lng": 174.63093644081076,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Hilton Foods NZ",
+    "lat": -37.00151483699228,
+    "lng": 174.8542188668424,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Ingham’s",
+    "lat": -36.99290437782557,
+    "lng": 174.84705429154477,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "AFFCO",
+    "lat": -37.010897355500575,
+    "lng": 174.87444823033536,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Hellers",
+    "lat": -37.01016734953224,
+    "lng": 174.85479295077567,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Wilson Hellaby",
+    "lat": -36.92304686026249,
+    "lng": 174.82688026986116,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Colonial Bacon & Ham",
+    "lat": -36.99018786683882,
+    "lng": 174.8665548649452,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Leonards Superior Smallgoods",
+    "lat": -36.93261784738129,
+    "lng": 174.90151343773746,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Jack Link’s NZ",
+    "lat": -36.975774093313106,
+    "lng": 174.7749028470459,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "McCallum Industries",
+    "lat": -36.864704015062784,
+    "lng": 174.61266138013087,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "New Zealand Seafoods",
+    "lat": -36.90534133709168,
+    "lng": 174.69065026147382,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Chevalier Wholesale Produce",
+    "lat": -36.88360194102801,
+    "lng": 174.67687530987882,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Bidfresh Auckland",
+    "lat": -36.86843706228769,
+    "lng": 174.66674713282242,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Suntory Oceania",
+    "lat": -36.99561441296097,
+    "lng": 174.86333993988777,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Keri Juice",
+    "lat": -36.98401557112067,
+    "lng": 174.79494671762848,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Eden Orchards / Eden Juice",
+    "lat": -36.97442231614611,
+    "lng": 174.7743218986876,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Festive Foods NZ Ltd",
+    "lat": -36.773921586839876,
+    "lng": 174.73262070911346,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Chelsea Sugar",
+    "lat": -36.821015472965904,
+    "lng": 174.72483035053642,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "WineWorks Auckland",
+    "lat": -36.923463691071284,
+    "lng": 174.80505525798722,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "DB Breweries",
+    "lat": -36.958329827192586,
+    "lng": 174.853189212161,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Steam Brewing Company",
+    "lat": -36.94866868265475,
+    "lng": 174.820934909355,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Jacob Douwe Egberts NZ",
+    "lat": -36.93947036978233,
+    "lng": 174.89087891974688,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Fresh Dynamics",
+    "lat": -36.91100582582215,
+    "lng": 174.80787239011087,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Griffin’s Snacks",
+    "lat": -37.00603939863828,
+    "lng": 174.86708414601435,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Bluebird",
+    "lat": -37.001175325899034,
+    "lng": 174.86924891313626,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Mondelēz International",
+    "lat": -36.88000198076233,
+    "lng": 174.6718921199586,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Arnott’s New Zealand",
+    "lat": -36.86687026999199,
+    "lng": 174.77741201063913,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "180 Degrees",
+    "lat": -36.881181582015785,
+    "lng": 174.6775026056764,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Smartfoods",
+    "lat": -36.912938433383744,
+    "lng": 174.84544148235386,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Tip Top Ice Cream",
+    "lat": -36.92191971542371,
+    "lng": 174.8478844282417,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Shree Foods",
+    "lat": -36.92959208340916,
+    "lng": 174.83516559965585,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "The Pastryhouse",
+    "lat": -37.00364094353339,
+    "lng": 174.87505779103256,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "YellowBites",
+    "lat": -36.99975333028132,
+    "lng": 174.84925982663574,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Nice & Natural",
+    "lat": -37.00619435837143,
+    "lng": 174.86628405145677,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Mommas Frozen Products",
+    "lat": -36.9579288445509,
+    "lng": 174.85147084448272,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Surti",
+    "lat": -36.92462580903661,
+    "lng": 174.78272633348155,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Highmark Foods",
+    "lat": -36.921007829485085,
+    "lng": 174.8072481053541,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Chan Kee",
+    "lat": -36.943994846114904,
+    "lng": 174.83661789819604,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Bakeworks / Home St.",
+    "lat": -36.86698260656913,
+    "lng": 174.6160878319251,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Gopals Sweets & Snacks Ltd",
+    "lat": -36.88721042042674,
+    "lng": 174.66376147078913,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Gastronomy",
+    "lat": -36.723416597826954,
+    "lng": 174.70469147042272,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Thomson’s Foods",
+    "lat": -36.86004666878611,
+    "lng": 174.63330918382167,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Serious Food Co Ltd",
+    "lat": -36.89302380875805,
+    "lng": 174.6322457113373,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "NZ Starch Ltd",
+    "lat": -36.92133478655534,
+    "lng": 174.80815792276027,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Delmaine Fine Foods",
+    "lat": -36.90304045865335,
+    "lng": 174.8257290169949,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Pacific Foods (New Zealand) Limited",
+    "lat": -36.92113262340121,
+    "lng": 174.8388810021253,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Bon Accord Products",
+    "lat": -36.88199884721144,
+    "lng": 174.6832951283499,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "The Pure Food Co",
+    "lat": -36.95185319721283,
+    "lng": 174.819361720203,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Koreana Co Ltd",
+    "lat": -36.94144113585553,
+    "lng": 174.89372070659178,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Brave the Crave",
+    "lat": -36.953585698979516,
+    "lng": 174.8952668851049,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Diversity Foods / GSF Fresh",
+    "lat": -36.994677752932546,
+    "lng": 174.84932960316755,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Plow Foods",
+    "lat": -37.00364303465145,
+    "lng": 174.87505466523646,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "J Punja",
+    "lat": -36.92657051690621,
+    "lng": 174.80365314091625,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "NZ Creameries/Open Country Dairy",
+    "lat": -36.93682378780353,
+    "lng": 174.87636883243803,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Foodstuffs North Island (NI)",
+    "lat": -36.988112900983744,
+    "lng": 174.76935464444918,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "T&G Global",
+    "lat": -36.90238439769617,
+    "lng": 174.80751701357238,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Orora",
+    "lat": -37.004067013435694,
+    "lng": 174.86452490288937,
+    "category": "Other / Unclassified"
+  },
+  {
+    "name": "D.M. Dunningham",
+    "lat": -36.915512334117174,
+    "lng": 174.82168883565208,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "New Zealand Quality Petfoods",
+    "lat": -36.93710046032806,
+    "lng": 174.88373743493423,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Custom-Pak",
+    "lat": -36.9439407061671,
+    "lng": 174.89019732410432,
+    "category": "Other / Unclassified"
+  },
+  {
+    "name": "The Cosmetic Company NZ",
+    "lat": -36.90496368236674,
+    "lng": 174.82325850562722,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Nestlé",
+    "lat": -36.99582660060886,
+    "lng": 174.8543488219601,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "George Weston Foods",
+    "lat": -37.00668537442887,
+    "lng": 174.87596068503223,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Hellers",
+    "lat": -37.01021811622401,
+    "lng": 174.85495846192848,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Goodman Fielder Quality Bakers",
+    "lat": -36.94574709256086,
+    "lng": 174.88537856334284,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Goodman Fielder R&D",
+    "lat": -36.84577740197844,
+    "lng": 174.76115114821283,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Champion Nutrition",
+    "lat": -37.00163101127928,
+    "lng": 174.87588914387308,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Kerry",
+    "lat": -36.93108912465664,
+    "lng": 174.8327472891533,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Swiss Deli",
+    "lat": -36.93118590832583,
+    "lng": 174.90133450163768,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Wholo Foods",
+    "lat": -36.94875464871407,
+    "lng": 174.8872371843716,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Hansells Food Group",
+    "lat": -36.9111147403684,
+    "lng": 174.8070226102752,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Source & Supply Food Co",
+    "lat": -36.92306133556918,
+    "lng": 174.82350693658455,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Ceres Organics",
+    "lat": -36.918155057154664,
+    "lng": 174.84782056471596,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Life Health Foods NZ",
+    "lat": -36.88268931530704,
+    "lng": 174.67967799741365,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Scentian Bio",
+    "lat": -36.891416316866604,
+    "lng": 174.72485892453457,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Fisher & Paykel Healthcare",
+    "lat": -36.93483760131823,
+    "lng": 174.88017748700244,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Kimberry Limited",
+    "lat": -36.927064437478144,
+    "lng": 174.786737684706,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Douglas Pharmaceuticals",
+    "lat": -36.862627215871576,
+    "lng": 174.6348104425257,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Watercare",
+    "lat": -36.97679195254707,
+    "lng": 174.77747150322722,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "LABTEC",
+    "lat": -36.91659758412627,
+    "lng": 174.82142458818097,
+    "category": "Science & Laboratory Testing"
+  },
+  {
+    "name": "GMP Pharmaceuticals",
+    "lat": -36.9461120206952,
+    "lng": 174.8792166216339,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  },
+  {
+    "name": "Oceania Pharmaceuticals",
+    "lat": -36.94403165268147,
+    "lng": 174.89949825272262,
+    "category": "Food & Ingredient & Pharmaceuticals Production"
+  }
+  
+]
